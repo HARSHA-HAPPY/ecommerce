@@ -1,38 +1,27 @@
 1. Introduction
 
 * Purpose
-The purpose of this document is to specify the requirements for developing an E-commerce Website. This website aims to provide users with a platform to browse, select, and purchase products or services online, as well as features such as user authentication, shopping cart management, payment processing, and order tracking.
+The purpose of this document is to specify the requirements 
 
 * Scope
-The E-commerce Website will include features such as product browsing, user registration, shopping cart management, order processing, and customer support. It will cater to both consumers looking to shop online and merchants looking to sell their products or services through the platform.
-
+The E-commerce Website will include features such as product browsing
 * System Overview
 
-2.1 System Description
-The E-commerce Website will be a web-based application accessible via desktop and mobile devices. It will comprise different modules to handle various aspects of e-commerce, including product management, user authentication, shopping cart management, payment processing, and order fulfillment.
-
-*User Roles
-
-Guest User: Users who visit the website without logging in, with limited access to features such as product browsing and guest checkout.
-Registered User: Users who create accounts on the website to access additional features such as order tracking, saved addresses, and loyalty rewards.
-Merchant: Sellers who register on the website to list and manage their products or services, process orders, and track sales and inventory.
 
 *. Functional Requirements
 
 1 Product Browsing
-The website should display a catalog of available products or services, including categories such as types, brands, prices, and ratings.
-Users should be able to browse product listings, view details such as descriptions, images, and specifications, and add items to their shopping cart.
+The website should display a catalog of available products 
 2 User Registration
-Users should have the option to create accounts on the website to access additional features and personalize their shopping experience.
-The system should validate user registration information and send account activation links or verification codes to the registered email address.
+Users should have the option to create accounts on the website to access additional features
 
 
 * Non-Functional Requirements
 
 1 Security
 The website must implement robust security measures to protect user data, payment information, and transactional communications.
-Data encryption, secure authentication mechanisms, and regular security audits should be implemented to ensure data confidentiality and integrity.
+
 2 Performance
 The website should be capable of handling a large volume of user traffic and concurrent shopping sessions without significant performance degradation.
-Response times for product browsing, checkout, and order confirmation should be optimized to provide a seamless shopping experience.
+
 
